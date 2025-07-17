@@ -5,12 +5,12 @@
 🔥 Features
   - 🔍 Search Recipes by name or ingredients
   - 📋 Display Recipe Details including:
-        - Recipe 
-        - Name
-        - Category & Area (Cuisine)
-        - Ingredients & Measurements
-        - Cooking Instructions
-        YouTube Video Tutorial (if available)
+         Recipe 
+         Name, 
+         Category & Area, 
+         Ingredients & Measurements, 
+         Cooking Instructions,
+         YouTube Video Tutorial (if available)
   - 📱 Fully Responsive Design (Mobile, Tablet, Desktop)
   - 🎨 Clean and modern UI/UX using custom CSS
 
