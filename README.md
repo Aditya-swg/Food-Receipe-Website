@@ -2,6 +2,7 @@
 
 🍽️ Food Recipe Website : This is a responsive and visually appealing Food Recipe Website built using HTML, CSS, and JavaScript. It allows users to search for delicious recipes and get detailed instructions, ingredients, and cooking methods using an external MealDB API.
 
+
 🔥 Features
   - 🔍 Search Recipes by name or ingredients
   - 📋 Display Recipe Details including:
@@ -13,6 +14,7 @@
          YouTube Video Tutorial (if available)
   - 📱 Fully Responsive Design (Mobile, Tablet, Desktop)
   - 🎨 Clean and modern UI/UX using custom CSS
+
 
 
 🛠️ Tech Stack
